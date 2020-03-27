@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SCSVMV</string>
+    <string name="scsvmv">SCSVMV</string>
+    <string-array name="depts">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+        <item>MATHS</item>
+    </string-array>
+    <string name="depts_list_1">FACULTY DETAILS</string>
+    <string name="depts_list_2">ATTENDANCE DETAILS</string>
+    <string name="depts_list_3">SUBJECT DEATILS</string>
+    <string name="depts_list_4">EXAM TIME TABLE</string>
+    <string-array name="depts_list">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+        <item>MATHS</item>
+    </string-array>
+    <string name="text">The Computer Science Engineering Department aims at providing accessible and relevant programs that are directly applicable to the dynamic environment in which our students will work, live and contribute.To produce high profile future computer experts, endowed with high quality knowledge of automation and other allied sciences, sufficiently capable of proving their professional mettle in the present-day competitive world with confidence.
+    The Computer Science Engineering Department aims at providing accessible and relevant programs that are directly applicable to the dynamic environment in which our students will work, live and contribute.To produce high profile future computer experts, endowed with high quality knowledge of automation and other allied sciences, sufficiently capable of proving their professional mettle in the present-day competitive world with confidence.
+    </string>
+</resources>
